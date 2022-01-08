@@ -1,0 +1,26 @@
+{
+	"local": "#f0f56c",
+	"type": "#f0f56c",
+	
+	"function": "#ed395d",
+	"do": "#ed395d",
+	"for": "#f0f56c",
+	"if": "#ed395d",
+	"then": "#ed395d",
+	"else": "#ed395d",
+	"elseif": "#ed395d",
+	"end": "#ed395d",
+
+	"->": "#3a354d",
+	"--": "#3a354d",
+
+	"print": "#5cbae6",
+	"pairs": "#5cbae6",
+	"ipairs": "#5cbae6",
+	"math": "#5cbae6",
+	"getmetatable": "#5cbae6",
+	"setmetatable": "#5cbae6",
+
+	"self": "#9662d1",
+	".*": "#9662d1"
+}

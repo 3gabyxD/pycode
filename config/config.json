@@ -1,0 +1,19 @@
+{
+
+	"font": {
+		"sans": ["FiraCode-Regular.ttf", 20],
+		"mono": ["FiraCode-Regular.ttf", 20]
+	},
+
+	"theme": {
+		"bg": "#15131c",
+		"dm": "#3a354d",
+		"fg": "#FFFFFF",
+		"hl": "#FFF545"
+	},
+
+	"anim": {
+		"scroll": 0.2,
+		"pointer": 0.1
+	}
+}
